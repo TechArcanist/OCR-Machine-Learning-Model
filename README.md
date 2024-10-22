@@ -1,7 +1,8 @@
 # OCR with WSL for Enhanced Machine Learning
 
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=100&duration=4000&lines=OCR+with+WSL+for+Enhanced+Machine+Learning!+🚀;" /> </h1>
-![image](https://github.com/user-attachments/assets/944e8f2b-b728-49fe-8d35-063d70ec60bd)
+
+![Screenshot 2024-10-22 205817](https://github.com/user-attachments/assets/aff6d84e-19a3-48bf-81a2-8aa66191ec57)
 
 ## Introduction
 
